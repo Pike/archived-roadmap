@@ -10,6 +10,15 @@ Project Management
 - [ ] single source of truth of current and past projects
 - [ ] a group maintains the set-up, no single source-of-failure
 
+L12y
+----
+
+We strongly recommend to use [L20n](l20n/Readme.md) for all projects.
+
+mozilla.org uses .lang files.
+
+Other projects should use XLIFF, or even .po (gettext).
+
 Dashboard
 ---------
 
