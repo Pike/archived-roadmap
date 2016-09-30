@@ -79,3 +79,19 @@ tool authors.
 * In the first scenario, we'd still want to run statistics and reports on the
 state of the localization against beta, and that'd suggest strings and files to
 be removed that are not in beta.
+
+Next Experiment
+---------------
+
+We should try and see how a synthesized repo looks like and feels. Axel would
+like to see an experiment to create that repo, going back to what's currently
+ESR, aka 45, and roll the version control system forward, with the created
+branches from there.
+
+- [ ] initial blame for 45 at merge day to aurora
+- [ ] rolling forward central 46 and aurora 45
+- [ ] rolling forward 47, 46, 45
+- [ ] rolling forward 48, 47, 46, 45
+- [ ] rolling forward 49, 48, 47, 46, 45
+- [ ] rolling forward 50, 49, 48, 47, 45
+- [ ] rinse and repeat 'til 52, aka, today.
