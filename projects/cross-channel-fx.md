@@ -28,15 +28,15 @@ We want to get to
 </tr>
 <tr>
 <th>af</th>
-<td style="text-align:center;" colspan="5">✓</td>
+<td align="center" colspan="5">✓</td>
 </tr>
 <tr>
 <th>de</th>
-<td style="text-align:center;" colspan="5">✓</td>
+<td align="center" colspan="5">✓</td>
 </tr>
 <tr>
 <th>zu</th>
-<td style="text-align:center;" colspan="5">✓</td>
+<td align="center" colspan="5">✓</td>
 </tr>
 </table>
 
