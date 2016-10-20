@@ -88,7 +88,7 @@ like to see an experiment to create that repo, going back to what's currently
 ESR, aka 45, and roll the version control system forward, with the created
 branches from there.
 
-- [ ] initial blame for 45 at merge day to aurora
+- [X] initial blame for 45 at merge day to aurora
 - [ ] rolling forward central 46 and aurora 45
 - [ ] rolling forward 47, 46, 45
 - [ ] rolling forward 48, 47, 46, 45
