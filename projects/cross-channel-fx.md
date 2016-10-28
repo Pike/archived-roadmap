@@ -69,6 +69,9 @@ Firefox, and continued to develop Firefox as we do today. In particular, strings
 no longer used on central should be removed on central, and the removal would
 ride the trains.
 
+The file structure in this repository would also match that of the l10n
+repositories, i.e., we'd strip all the `locales/en-US/` directory parts.
+
 **Challenge**: Actually creating this repository isn't trivial. We'd need to
 deal with blame, changes in configuration files after the fact, and we'd want
 stable sorting of entities in case of back-outs.
