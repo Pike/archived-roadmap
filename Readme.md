@@ -43,6 +43,6 @@ Projects
 These are the projects we're working on right now, in addition to general bug
 fixes.
 
-- [ ] [land in gecko](https://github.com/Pike/cl-next/projects/2), used in Firefox and Firefox for Android.
+- [ ] [land in gecko](https://github.com/mozilla-l10n/roadmap/projects/2), used in Firefox and Firefox for Android.
 - [ ] [elmo-pontoon merger](projects/toolchain-merger.md)
 - [ ] [cross-channel firefox l10n](projects/cross-channel-fx.md)
