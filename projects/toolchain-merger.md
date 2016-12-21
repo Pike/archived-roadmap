@@ -18,5 +18,5 @@ The tools to merge are
 - [ ] pontoon (mozilla online l10n editing tool)
 - [ ] webdashboard (supports web projects and other one-offs in 2016)
 
-See the [project roadmap](https://github.com/Pike/cl-next/projects/3) for
+See the [project roadmap](https://github.com/mozilla-l10n/roadmap/projects/3) for
 details.
